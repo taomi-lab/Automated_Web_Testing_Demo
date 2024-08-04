@@ -1,0 +1,190 @@
+2024-07-31 16:35:23,422 INFO [apiautotest] [driver.py (__init__:60)] - chrome 启动成功
+2024-07-31 16:35:24,163 INFO [apiautotest] [driver.py (get:64)] - https://www.qunar.com/ 打开成功
+2024-07-31 16:35:24,304 INFO [apiautotest] [driver.py (click:136)] - 点击元素【切换到登录界面】,通过【xpath】,值是【//div[contains(text(), '关于去哪儿')]】,点击成功
+2024-07-31 16:35:24,337 INFO [apiautotest] [driver.py (switch_to_window:161)] - 切换到第2个新窗口成功
+2024-07-31 16:35:29,451 INFO [apiautotest] [driver.py (click:136)] - 点击元素【点击登录按钮】,通过【xpath】,值是【//a[text()='登录']】,点击成功
+2024-07-31 16:35:29,497 INFO [apiautotest] [driver.py (click:136)] - 点击元素【点击密码登录】,通过【xpath】,值是【//div[text()='密码登录']】,点击成功
+2024-07-31 16:35:29,512 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【输入账号】,通过【xpath】,值是【//input[@placeholder='手机/邮箱/用户名']】,定位成功
+2024-07-31 16:35:29,536 INFO [apiautotest] [driver.py (send_keys:150)] - 清除元素【输入账号】内容成功
+2024-07-31 16:35:29,616 INFO [apiautotest] [driver.py (send_keys:152)] - 向元素【输入账号】,通过【xpath】,值是【//input[@placeholder='手机/邮箱/用户名']】,输入【15135976034】成功
+2024-07-31 16:35:29,625 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【输入密码】,通过【xpath】,值是【//input[@placeholder='密码']】,定位成功
+2024-07-31 16:35:29,644 INFO [apiautotest] [driver.py (send_keys:150)] - 清除元素【输入密码】内容成功
+2024-07-31 16:35:29,709 INFO [apiautotest] [driver.py (send_keys:152)] - 向元素【输入密码】,通过【xpath】,值是【//input[@placeholder='密码']】,输入【shs092121】成功
+2024-07-31 16:35:29,751 INFO [apiautotest] [driver.py (click:136)] - 点击元素【点击协议】,通过【xpath】,值是【//input[@id='agreement']】,点击成功
+2024-07-31 16:35:29,789 INFO [apiautotest] [driver.py (click:136)] - 点击元素【执行登录】,通过【xpath】,值是【//div[@class='button' and @role='button']/span[text()='登录']】,点击成功
+2024-07-31 16:35:29,797 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【滑块起始位置】,通过【css selector】,值是【.OQphwVk_QrhLuedI5-Jme】,定位成功
+2024-07-31 16:35:29,806 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【滑块结束位置】,通过【css selector】,值是【.NrgjHeg7YBdiFd3U9T_j_】,定位成功
+2024-07-31 16:35:34,228 INFO [apiautotest] [driver.py (click:136)] - 点击元素【点击购买火车票】,通过【xpath】,值是【//b[text()='火车票']】,点击成功
+2024-07-31 16:35:34,238 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【选择出发站】,通过【xpath】,值是【//input[@name='fromStation']】,定位成功
+2024-07-31 16:35:34,257 INFO [apiautotest] [driver.py (send_keys:150)] - 清除元素【选择出发站】内容成功
+2024-07-31 16:35:34,305 INFO [apiautotest] [driver.py (send_keys:152)] - 向元素【选择出发站】,通过【xpath】,值是【//input[@name='fromStation']】,输入【北京】成功
+2024-07-31 16:35:34,316 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【选择到达站】,通过【xpath】,值是【//input[@name='toStation']】,定位成功
+2024-07-31 16:35:34,334 INFO [apiautotest] [driver.py (send_keys:150)] - 清除元素【选择到达站】内容成功
+2024-07-31 16:35:34,382 INFO [apiautotest] [driver.py (send_keys:152)] - 向元素【选择到达站】,通过【xpath】,值是【//input[@name='toStation']】,输入【上海】成功
+2024-07-31 16:35:34,391 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【查找日期】,通过【xpath】,值是【//input[@name='date']】,定位成功
+2024-07-31 16:37:29,057 INFO [apiautotest] [driver.py (__init__:60)] - chrome 启动成功
+2024-07-31 16:37:30,777 INFO [apiautotest] [driver.py (get:64)] - https://www.qunar.com/ 打开成功
+2024-07-31 16:37:30,914 INFO [apiautotest] [driver.py (click:136)] - 点击元素【切换到登录界面】,通过【xpath】,值是【//div[contains(text(), '关于去哪儿')]】,点击成功
+2024-07-31 16:37:30,924 INFO [apiautotest] [driver.py (switch_to_window:161)] - 切换到第2个新窗口成功
+2024-07-31 16:37:34,106 INFO [apiautotest] [driver.py (click:136)] - 点击元素【点击登录按钮】,通过【xpath】,值是【//a[text()='登录']】,点击成功
+2024-07-31 16:37:34,147 INFO [apiautotest] [driver.py (click:136)] - 点击元素【点击密码登录】,通过【xpath】,值是【//div[text()='密码登录']】,点击成功
+2024-07-31 16:37:34,155 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【输入账号】,通过【xpath】,值是【//input[@placeholder='手机/邮箱/用户名']】,定位成功
+2024-07-31 16:37:34,180 INFO [apiautotest] [driver.py (send_keys:150)] - 清除元素【输入账号】内容成功
+2024-07-31 16:37:34,254 INFO [apiautotest] [driver.py (send_keys:152)] - 向元素【输入账号】,通过【xpath】,值是【//input[@placeholder='手机/邮箱/用户名']】,输入【15135976034】成功
+2024-07-31 16:37:34,265 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【输入密码】,通过【xpath】,值是【//input[@placeholder='密码']】,定位成功
+2024-07-31 16:37:34,283 INFO [apiautotest] [driver.py (send_keys:150)] - 清除元素【输入密码】内容成功
+2024-07-31 16:37:34,348 INFO [apiautotest] [driver.py (send_keys:152)] - 向元素【输入密码】,通过【xpath】,值是【//input[@placeholder='密码']】,输入【shs092121】成功
+2024-07-31 16:37:34,390 INFO [apiautotest] [driver.py (click:136)] - 点击元素【点击协议】,通过【xpath】,值是【//input[@id='agreement']】,点击成功
+2024-07-31 16:37:34,431 INFO [apiautotest] [driver.py (click:136)] - 点击元素【执行登录】,通过【xpath】,值是【//div[@class='button' and @role='button']/span[text()='登录']】,点击成功
+2024-07-31 16:37:34,441 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【滑块起始位置】,通过【css selector】,值是【.OQphwVk_QrhLuedI5-Jme】,定位成功
+2024-07-31 16:37:34,452 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【滑块结束位置】,通过【css selector】,值是【.NrgjHeg7YBdiFd3U9T_j_】,定位成功
+2024-07-31 16:37:39,141 INFO [apiautotest] [driver.py (click:136)] - 点击元素【点击购买火车票】,通过【xpath】,值是【//b[text()='火车票']】,点击成功
+2024-07-31 16:37:39,151 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【选择出发站】,通过【xpath】,值是【//input[@name='fromStation']】,定位成功
+2024-07-31 16:37:39,170 INFO [apiautotest] [driver.py (send_keys:150)] - 清除元素【选择出发站】内容成功
+2024-07-31 16:37:39,218 INFO [apiautotest] [driver.py (send_keys:152)] - 向元素【选择出发站】,通过【xpath】,值是【//input[@name='fromStation']】,输入【北京】成功
+2024-07-31 16:37:39,229 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【选择到达站】,通过【xpath】,值是【//input[@name='toStation']】,定位成功
+2024-07-31 16:37:39,249 INFO [apiautotest] [driver.py (send_keys:150)] - 清除元素【选择到达站】内容成功
+2024-07-31 16:37:39,297 INFO [apiautotest] [driver.py (send_keys:152)] - 向元素【选择到达站】,通过【xpath】,值是【//input[@name='toStation']】,输入【上海】成功
+2024-07-31 16:37:39,305 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【查找日期】,通过【xpath】,值是【//input[@name='date']】,定位成功
+2024-07-31 16:37:41,070 INFO [apiautotest] [driver.py (click:136)] - 点击元素【选择搜索】,通过【xpath】,值是【//button[@name='stsSearch']】,点击成功
+2024-07-31 16:37:51,589 ERROR [apiautotest] [driver.py (click:138)] - 点击元素【点击购买】,通过【xpath】,值是【//span[text()='购  买']】,点击失败
+Traceback (most recent call last):
+  File "D:\01找工作相关\测开项目\Test_Framework_Template\common\driver.py", line 135, in click
+    wait.until(click_success(locator))
+  File "C:\Users\Administrator\miniconda3\envs\WebTest\lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2024-07-31 16:38:07,420 INFO [apiautotest] [driver.py (__init__:60)] - chrome 启动成功
+2024-07-31 16:38:08,168 INFO [apiautotest] [driver.py (get:64)] - https://www.qunar.com/ 打开成功
+2024-07-31 16:38:08,267 INFO [apiautotest] [driver.py (click:136)] - 点击元素【切换到登录界面】,通过【xpath】,值是【//div[contains(text(), '关于去哪儿')]】,点击成功
+2024-07-31 16:38:08,288 INFO [apiautotest] [driver.py (switch_to_window:161)] - 切换到第2个新窗口成功
+2024-07-31 16:38:10,040 INFO [apiautotest] [driver.py (click:136)] - 点击元素【点击登录按钮】,通过【xpath】,值是【//a[text()='登录']】,点击成功
+2024-07-31 16:38:10,097 INFO [apiautotest] [driver.py (click:136)] - 点击元素【点击密码登录】,通过【xpath】,值是【//div[text()='密码登录']】,点击成功
+2024-07-31 16:38:10,109 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【输入账号】,通过【xpath】,值是【//input[@placeholder='手机/邮箱/用户名']】,定位成功
+2024-07-31 16:38:10,137 INFO [apiautotest] [driver.py (send_keys:150)] - 清除元素【输入账号】内容成功
+2024-07-31 16:38:10,232 INFO [apiautotest] [driver.py (send_keys:152)] - 向元素【输入账号】,通过【xpath】,值是【//input[@placeholder='手机/邮箱/用户名']】,输入【15135976034】成功
+2024-07-31 16:38:10,241 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【输入密码】,通过【xpath】,值是【//input[@placeholder='密码']】,定位成功
+2024-07-31 16:38:10,263 INFO [apiautotest] [driver.py (send_keys:150)] - 清除元素【输入密码】内容成功
+2024-07-31 16:38:10,342 INFO [apiautotest] [driver.py (send_keys:152)] - 向元素【输入密码】,通过【xpath】,值是【//input[@placeholder='密码']】,输入【shs092121】成功
+2024-07-31 16:38:10,382 INFO [apiautotest] [driver.py (click:136)] - 点击元素【点击协议】,通过【xpath】,值是【//input[@id='agreement']】,点击成功
+2024-07-31 16:38:10,421 INFO [apiautotest] [driver.py (click:136)] - 点击元素【执行登录】,通过【xpath】,值是【//div[@class='button' and @role='button']/span[text()='登录']】,点击成功
+2024-07-31 16:38:10,431 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【滑块起始位置】,通过【css selector】,值是【.OQphwVk_QrhLuedI5-Jme】,定位成功
+2024-07-31 16:38:10,441 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【滑块结束位置】,通过【css selector】,值是【.NrgjHeg7YBdiFd3U9T_j_】,定位成功
+2024-07-31 16:38:15,280 INFO [apiautotest] [driver.py (click:136)] - 点击元素【点击购买火车票】,通过【xpath】,值是【//b[text()='火车票']】,点击成功
+2024-07-31 16:38:15,293 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【选择出发站】,通过【xpath】,值是【//input[@name='fromStation']】,定位成功
+2024-07-31 16:38:15,320 INFO [apiautotest] [driver.py (send_keys:150)] - 清除元素【选择出发站】内容成功
+2024-07-31 16:38:15,377 INFO [apiautotest] [driver.py (send_keys:152)] - 向元素【选择出发站】,通过【xpath】,值是【//input[@name='fromStation']】,输入【北京】成功
+2024-07-31 16:38:15,389 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【选择到达站】,通过【xpath】,值是【//input[@name='toStation']】,定位成功
+2024-07-31 16:38:15,413 INFO [apiautotest] [driver.py (send_keys:150)] - 清除元素【选择到达站】内容成功
+2024-07-31 16:38:15,464 INFO [apiautotest] [driver.py (send_keys:152)] - 向元素【选择到达站】,通过【xpath】,值是【//input[@name='toStation']】,输入【上海】成功
+2024-07-31 16:38:15,473 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【查找日期】,通过【xpath】,值是【//input[@name='date']】,定位成功
+2024-07-31 16:38:17,045 INFO [apiautotest] [driver.py (click:136)] - 点击元素【选择搜索】,通过【xpath】,值是【//button[@name='stsSearch']】,点击成功
+2024-07-31 16:38:24,087 ERROR [apiautotest] [driver.py (click:138)] - 点击元素【点击购买】,通过【xpath】,值是【//span[text()='购  买']】,点击失败
+Traceback (most recent call last):
+  File "D:\01找工作相关\测开项目\Test_Framework_Template\common\driver.py", line 135, in click
+    wait.until(click_success(locator))
+  File "C:\Users\Administrator\miniconda3\envs\WebTest\lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2024-07-31 16:40:39,900 INFO [apiautotest] [driver.py (__init__:60)] - chrome 启动成功
+2024-07-31 16:40:41,633 INFO [apiautotest] [driver.py (get:64)] - https://www.qunar.com/ 打开成功
+2024-07-31 16:40:53,202 INFO [apiautotest] [driver.py (__init__:60)] - chrome 启动成功
+2024-07-31 16:40:53,813 INFO [apiautotest] [driver.py (get:64)] - https://www.qunar.com/ 打开成功
+2024-07-31 16:46:59,150 INFO [apiautotest] [driver.py (__init__:60)] - chrome 启动成功
+2024-07-31 16:46:59,883 INFO [apiautotest] [driver.py (get:64)] - https://www.qunar.com/ 打开成功
+2024-07-31 16:47:00,067 INFO [apiautotest] [driver.py (click:136)] - 点击元素【切换到登录界面】,通过【xpath】,值是【//div[contains(text(), '关于去哪儿')]】,点击成功
+2024-07-31 16:47:00,078 INFO [apiautotest] [driver.py (switch_to_window:161)] - 切换到第2个新窗口成功
+2024-07-31 16:47:02,674 INFO [apiautotest] [driver.py (click:136)] - 点击元素【点击登录按钮】,通过【xpath】,值是【//a[text()='登录']】,点击成功
+2024-07-31 16:47:02,723 INFO [apiautotest] [driver.py (click:136)] - 点击元素【点击密码登录】,通过【xpath】,值是【//div[text()='密码登录']】,点击成功
+2024-07-31 16:47:02,735 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【输入账号】,通过【xpath】,值是【//input[@placeholder='手机/邮箱/用户名']】,定位成功
+2024-07-31 16:47:02,758 INFO [apiautotest] [driver.py (send_keys:150)] - 清除元素【输入账号】内容成功
+2024-07-31 16:47:02,846 INFO [apiautotest] [driver.py (send_keys:152)] - 向元素【输入账号】,通过【xpath】,值是【//input[@placeholder='手机/邮箱/用户名']】,输入【15135976034】成功
+2024-07-31 16:47:02,855 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【输入密码】,通过【xpath】,值是【//input[@placeholder='密码']】,定位成功
+2024-07-31 16:47:02,875 INFO [apiautotest] [driver.py (send_keys:150)] - 清除元素【输入密码】内容成功
+2024-07-31 16:47:02,949 INFO [apiautotest] [driver.py (send_keys:152)] - 向元素【输入密码】,通过【xpath】,值是【//input[@placeholder='密码']】,输入【shs092121】成功
+2024-07-31 16:47:02,992 INFO [apiautotest] [driver.py (click:136)] - 点击元素【点击协议】,通过【xpath】,值是【//input[@id='agreement']】,点击成功
+2024-07-31 16:47:03,031 INFO [apiautotest] [driver.py (click:136)] - 点击元素【执行登录】,通过【xpath】,值是【//div[@class='button' and @role='button']/span[text()='登录']】,点击成功
+2024-07-31 16:47:03,039 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【滑块起始位置】,通过【css selector】,值是【.OQphwVk_QrhLuedI5-Jme】,定位成功
+2024-07-31 16:47:03,048 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【滑块结束位置】,通过【css selector】,值是【.NrgjHeg7YBdiFd3U9T_j_】,定位成功
+2024-07-31 16:47:09,400 INFO [apiautotest] [driver.py (click:136)] - 点击元素【点击购买火车票】,通过【xpath】,值是【//b[text()='火车票']】,点击成功
+2024-07-31 16:47:09,409 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【选择出发站】,通过【xpath】,值是【//input[@name='fromStation']】,定位成功
+2024-07-31 16:47:09,430 INFO [apiautotest] [driver.py (send_keys:150)] - 清除元素【选择出发站】内容成功
+2024-07-31 16:47:09,482 INFO [apiautotest] [driver.py (send_keys:152)] - 向元素【选择出发站】,通过【xpath】,值是【//input[@name='fromStation']】,输入【北京】成功
+2024-07-31 16:47:09,491 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【选择到达站】,通过【xpath】,值是【//input[@name='toStation']】,定位成功
+2024-07-31 16:47:09,513 INFO [apiautotest] [driver.py (send_keys:150)] - 清除元素【选择到达站】内容成功
+2024-07-31 16:47:09,562 INFO [apiautotest] [driver.py (send_keys:152)] - 向元素【选择到达站】,通过【xpath】,值是【//input[@name='toStation']】,输入【上海】成功
+2024-07-31 16:47:09,572 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【查找日期】,通过【xpath】,值是【//input[@name='date']】,定位成功
+2024-07-31 16:47:21,656 INFO [apiautotest] [driver.py (click:136)] - 点击元素【选择搜索】,通过【xpath】,值是【//button[@name='stsSearch']】,点击成功
+2024-07-31 16:47:32,218 ERROR [apiautotest] [driver.py (click:138)] - 点击元素【点击购买】,通过【xpath】,值是【//span[text()='购  买']】,点击失败
+Traceback (most recent call last):
+  File "D:\01找工作相关\测开项目\Test_Framework_Template\common\driver.py", line 135, in click
+    wait.until(click_success(locator))
+  File "C:\Users\Administrator\miniconda3\envs\WebTest\lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2024-07-31 16:47:39,877 INFO [apiautotest] [driver.py (__init__:60)] - chrome 启动成功
+2024-07-31 16:47:40,598 INFO [apiautotest] [driver.py (get:64)] - https://www.qunar.com/ 打开成功
+2024-07-31 16:47:40,718 INFO [apiautotest] [driver.py (click:136)] - 点击元素【切换到登录界面】,通过【xpath】,值是【//div[contains(text(), '关于去哪儿')]】,点击成功
+2024-07-31 16:47:40,735 INFO [apiautotest] [driver.py (switch_to_window:161)] - 切换到第2个新窗口成功
+2024-07-31 16:47:43,367 INFO [apiautotest] [driver.py (click:136)] - 点击元素【点击登录按钮】,通过【xpath】,值是【//a[text()='登录']】,点击成功
+2024-07-31 16:47:43,414 INFO [apiautotest] [driver.py (click:136)] - 点击元素【点击密码登录】,通过【xpath】,值是【//div[text()='密码登录']】,点击成功
+2024-07-31 16:47:43,424 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【输入账号】,通过【xpath】,值是【//input[@placeholder='手机/邮箱/用户名']】,定位成功
+2024-07-31 16:47:43,457 INFO [apiautotest] [driver.py (send_keys:150)] - 清除元素【输入账号】内容成功
+2024-07-31 16:47:43,620 INFO [apiautotest] [driver.py (send_keys:152)] - 向元素【输入账号】,通过【xpath】,值是【//input[@placeholder='手机/邮箱/用户名']】,输入【15135976034】成功
+2024-07-31 16:47:43,635 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【输入密码】,通过【xpath】,值是【//input[@placeholder='密码']】,定位成功
+2024-07-31 16:47:43,661 INFO [apiautotest] [driver.py (send_keys:150)] - 清除元素【输入密码】内容成功
+2024-07-31 16:47:43,741 INFO [apiautotest] [driver.py (send_keys:152)] - 向元素【输入密码】,通过【xpath】,值是【//input[@placeholder='密码']】,输入【shs092121】成功
+2024-07-31 16:47:43,784 INFO [apiautotest] [driver.py (click:136)] - 点击元素【点击协议】,通过【xpath】,值是【//input[@id='agreement']】,点击成功
+2024-07-31 16:47:43,846 INFO [apiautotest] [driver.py (click:136)] - 点击元素【执行登录】,通过【xpath】,值是【//div[@class='button' and @role='button']/span[text()='登录']】,点击成功
+2024-07-31 16:47:43,856 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【滑块起始位置】,通过【css selector】,值是【.OQphwVk_QrhLuedI5-Jme】,定位成功
+2024-07-31 16:47:43,866 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【滑块结束位置】,通过【css selector】,值是【.NrgjHeg7YBdiFd3U9T_j_】,定位成功
+2024-07-31 16:47:52,328 INFO [apiautotest] [driver.py (click:136)] - 点击元素【点击购买火车票】,通过【xpath】,值是【//b[text()='火车票']】,点击成功
+2024-07-31 16:47:52,339 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【选择出发站】,通过【xpath】,值是【//input[@name='fromStation']】,定位成功
+2024-07-31 16:47:52,361 INFO [apiautotest] [driver.py (send_keys:150)] - 清除元素【选择出发站】内容成功
+2024-07-31 16:47:52,403 INFO [apiautotest] [driver.py (send_keys:152)] - 向元素【选择出发站】,通过【xpath】,值是【//input[@name='fromStation']】,输入【北京】成功
+2024-07-31 16:47:52,413 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【选择到达站】,通过【xpath】,值是【//input[@name='toStation']】,定位成功
+2024-07-31 16:47:52,434 INFO [apiautotest] [driver.py (send_keys:150)] - 清除元素【选择到达站】内容成功
+2024-07-31 16:47:52,478 INFO [apiautotest] [driver.py (send_keys:152)] - 向元素【选择到达站】,通过【xpath】,值是【//input[@name='toStation']】,输入【上海】成功
+2024-07-31 16:47:52,489 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【查找日期】,通过【xpath】,值是【//input[@name='date']】,定位成功
+2024-07-31 16:48:07,827 ERROR [apiautotest] [driver.py (click:138)] - 点击元素【选择搜索】,通过【xpath】,值是【//button[@name='stsSearch']】,点击失败
+Traceback (most recent call last):
+  File "D:\01找工作相关\测开项目\Test_Framework_Template\common\driver.py", line 135, in click
+    wait.until(click_success(locator))
+  File "C:\Users\Administrator\miniconda3\envs\WebTest\lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2024-07-31 16:49:39,273 INFO [apiautotest] [driver.py (__init__:60)] - chrome 启动成功
+2024-07-31 16:49:40,019 INFO [apiautotest] [driver.py (get:64)] - https://www.qunar.com/ 打开成功
+2024-07-31 16:49:40,170 INFO [apiautotest] [driver.py (click:136)] - 点击元素【切换到登录界面】,通过【xpath】,值是【//div[contains(text(), '关于去哪儿')]】,点击成功
+2024-07-31 16:49:40,183 INFO [apiautotest] [driver.py (switch_to_window:161)] - 切换到第2个新窗口成功
+2024-07-31 16:49:42,883 INFO [apiautotest] [driver.py (click:136)] - 点击元素【点击登录按钮】,通过【xpath】,值是【//a[text()='登录']】,点击成功
+2024-07-31 16:49:42,928 INFO [apiautotest] [driver.py (click:136)] - 点击元素【点击密码登录】,通过【xpath】,值是【//div[text()='密码登录']】,点击成功
+2024-07-31 16:49:42,939 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【输入账号】,通过【xpath】,值是【//input[@placeholder='手机/邮箱/用户名']】,定位成功
+2024-07-31 16:49:42,966 INFO [apiautotest] [driver.py (send_keys:150)] - 清除元素【输入账号】内容成功
+2024-07-31 16:49:43,057 INFO [apiautotest] [driver.py (send_keys:152)] - 向元素【输入账号】,通过【xpath】,值是【//input[@placeholder='手机/邮箱/用户名']】,输入【15135976034】成功
+2024-07-31 16:49:43,068 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【输入密码】,通过【xpath】,值是【//input[@placeholder='密码']】,定位成功
+2024-07-31 16:49:43,088 INFO [apiautotest] [driver.py (send_keys:150)] - 清除元素【输入密码】内容成功
+2024-07-31 16:49:43,176 INFO [apiautotest] [driver.py (send_keys:152)] - 向元素【输入密码】,通过【xpath】,值是【//input[@placeholder='密码']】,输入【shs092121】成功
+2024-07-31 16:49:43,223 INFO [apiautotest] [driver.py (click:136)] - 点击元素【点击协议】,通过【xpath】,值是【//input[@id='agreement']】,点击成功
+2024-07-31 16:49:43,268 INFO [apiautotest] [driver.py (click:136)] - 点击元素【执行登录】,通过【xpath】,值是【//div[@class='button' and @role='button']/span[text()='登录']】,点击成功
+2024-07-31 16:49:43,278 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【滑块起始位置】,通过【css selector】,值是【.OQphwVk_QrhLuedI5-Jme】,定位成功
+2024-07-31 16:49:43,286 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【滑块结束位置】,通过【css selector】,值是【.NrgjHeg7YBdiFd3U9T_j_】,定位成功
+2024-07-31 16:49:48,353 INFO [apiautotest] [driver.py (click:136)] - 点击元素【点击购买火车票】,通过【xpath】,值是【//b[text()='火车票']】,点击成功
+2024-07-31 16:49:48,362 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【选择出发站】,通过【xpath】,值是【//input[@name='fromStation']】,定位成功
+2024-07-31 16:49:48,382 INFO [apiautotest] [driver.py (send_keys:150)] - 清除元素【选择出发站】内容成功
+2024-07-31 16:49:48,435 INFO [apiautotest] [driver.py (send_keys:152)] - 向元素【选择出发站】,通过【xpath】,值是【//input[@name='fromStation']】,输入【北京】成功
+2024-07-31 16:49:48,444 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【选择到达站】,通过【xpath】,值是【//input[@name='toStation']】,定位成功
+2024-07-31 16:49:48,469 INFO [apiautotest] [driver.py (send_keys:150)] - 清除元素【选择到达站】内容成功
+2024-07-31 16:49:48,524 INFO [apiautotest] [driver.py (send_keys:152)] - 向元素【选择到达站】,通过【xpath】,值是【//input[@name='toStation']】,输入【上海】成功
+2024-07-31 16:49:48,536 INFO [apiautotest] [driver.py (find_element:103)] - 定位元素【查找日期】,通过【xpath】,值是【//input[@name='date']】,定位成功
+2024-07-31 16:50:03,393 ERROR [apiautotest] [driver.py (click:138)] - 点击元素【选择搜索】,通过【xpath】,值是【//button[@name='stsSearch']】,点击失败
+Traceback (most recent call last):
+  File "D:\01找工作相关\测开项目\Test_Framework_Template\common\driver.py", line 135, in click
+    wait.until(click_success(locator))
+  File "C:\Users\Administrator\miniconda3\envs\WebTest\lib\site-packages\selenium\webdriver\support\wait.py", line 102, in until
+    time.sleep(self._poll)
+KeyboardInterrupt

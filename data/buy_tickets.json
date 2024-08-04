@@ -1,0 +1,28 @@
+{
+  "buy_ticket_001":{ "start_station":"北京",
+                "arrive_station": "上海",
+                "time": "2024-07-25",
+                "name":"xxx",
+                "boardcard":"xxx",
+                "phone": "xxx",
+                "success": true,
+                "except_result":null},
+    "buy_ticket_002":{ "start_station":"北京",
+                "arrive_station": "山西",
+                "time": "2024-07-20",
+                "name":"赵三",
+                "boardcard":"xxx",
+                "phone": "xxx",
+                "success": false,
+                "except_result":"请正确填写所有内容"},
+
+      "buy_ticket_003":{ "start_station":"重庆",
+                "arrive_station": "深圳",
+                "time": "2024-07-28",
+                "name":"李四",
+                "boardcard":"xxx",
+                "phone": "xxx",
+                "success": false,
+                "except_result":"请正确填写所有内容"}
+
+}
